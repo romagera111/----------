@@ -64,3 +64,5 @@ tea = Drink ('чай', 500)
 print (tea.tell_price()) # Сначала друг объявит стоимость чая.
 beetlejuice = Juice (1988, 'жучиный')
 print (beetlejuice.tell_price()) # Потом друг объявит стоимость жучиного сока.
+
+#Изменения для github
